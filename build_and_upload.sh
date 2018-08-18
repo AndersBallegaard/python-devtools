@@ -7,7 +7,7 @@ python3 setup.py sdist
 pip3 install .
 
 #run tests
-python3 tests/run.py
+tests/run.sh
 
 #upload to pypi if user wants it
 echo Should this be released to pypi?[y/n]

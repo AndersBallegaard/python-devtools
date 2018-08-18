@@ -3,7 +3,7 @@ from setuptools import find_packages
 
 setup(
     name='pydevtools',
-    version='0.3dev',
+    version='0.4',
         author="AndersBallegaard",
     author_email="anderstb@hotmail.dk",
     packages=find_packages(exclude="tests/"),
